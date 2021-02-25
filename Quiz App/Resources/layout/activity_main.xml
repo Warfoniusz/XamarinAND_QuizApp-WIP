@@ -49,16 +49,13 @@
                         android:layout_height="100dp"/>
 
                     <View
-                        android:background="#e2e2e2"
+                        android:background="@color/colorDivider"
                         android:layout_width="match_parent"
                         android:layout_height="1dp"/>
 
                     <TextView
-                        android:textStyle="bold"
-                        android:gravity="center"
                         android:text="Literature"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"/>
+                        style="@style/MainPageButtonText"/>
 
 
 
@@ -89,16 +86,14 @@
                         android:layout_height="100dp"/>
 
                     <View
-                        android:background="#e2e2e2"
+                        android:background="@color/colorDivider"
                         android:layout_width="match_parent"
                         android:layout_height="1dp"/>
 
-                    <TextView
-                        android:textStyle="bold"
-                        android:gravity="center"
+                    <TextView                      
                         android:text="Space"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"/>
+                    style="@style/MainPageButtonText"/>
+
 
 
 
@@ -128,16 +123,13 @@
                         android:layout_height="100dp"/>
 
                     <View
-                        android:background="#e2e2e2"
+                        android:background="@color/colorDivider"
                         android:layout_width="match_parent"
                         android:layout_height="1dp"/>
 
                     <TextView
-                        android:textStyle="bold"
-                        android:gravity="center"
                         android:text="Laboratory"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"/>
+                        style="@style/MainPageButtonText"/>
 
 
 
@@ -169,16 +161,13 @@
                         android:layout_height="100dp"/>
 
                     <View
-                        android:background="#e2e2e2"
+                        android:background="@color/colorDivider"
                         android:layout_width="match_parent"
                         android:layout_height="1dp"/>
 
                     <TextView
-                        android:textStyle="bold"
-                        android:gravity="center"
                         android:text="Geography"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"/>
+                        style="@style/MainPageButtonText"/>
 
 
 
@@ -208,19 +197,13 @@
                         android:layout_height="100dp"/>
 
                     <View
-                        android:background="#e2e2e2"
+                        android:background="@color/colorDivider"
                         android:layout_width="match_parent"
                         android:layout_height="1dp"/>
 
                     <TextView
-                        android:textStyle="bold"
-                        android:gravity="center"
                         android:text="Video Games"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"/>
-
-
-
+                        style="@style/MainPageButtonText"/>
 
                 </LinearLayout>
                 
@@ -249,16 +232,15 @@
                         android:layout_height="100dp"/>
 
                     <View
-                        android:background="#e2e2e2"
+                        android:background="@color/colorDivider"
                         android:layout_width="match_parent"
                         android:layout_height="1dp"/>
 
                     <TextView
-                        android:textStyle="bold"
-                        android:gravity="center"
                         android:text="Food and Drinks"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"/>
+                        style="@style/MainPageButtonText"/>
+                        
+
 
 
 
